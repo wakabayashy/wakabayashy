@@ -1,16 +1,23 @@
-## Hi there 👋
+Welcome to my GitHub!
 
-<!--
-**wakabayashy/wakabayashy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fan translation projects, localization work, and game ports.
 
-Here are some ideas to get you started:
+🚧 Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌸 Sakura Wars 4
+
+Dreamcast — Complete English Translation
+
+⚔️ Dragon Quest Heroes I & II
+
+Nintendo Switch — Official PS4 Translation Port + Bonus Content Translation
+
+🎮 Cross Edge Dash
+
+Xbox 360 — Official PS3 Translation Port + Bonus Content Translation
+
+🤖 Super Robot Wars XO
+
+Xbox 360 — Complete English Translation
+
+Projects are under development. More information will be shared when ready.
