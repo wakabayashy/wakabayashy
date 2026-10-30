@@ -4,20 +4,17 @@ Fan translation projects, localization work, and game ports.
 
 ## 🚧 Current Projects
 
-### 🌸 [Sakura Wars 1](https://github.com/wakabayashy/Sakura-Wars-1-Dreamcast-English-Translation)
-**Sega Dreamcast** — Independent AI-Assisted English Translation  
-**Status: 100% Translated — Private Beta Coming Soon!**
+### 🌸 Sakura Wars 1
+**Sega Dreamcast** — AI-Assisted English Translation  
 
 ### 🌸 Sakura Wars 4
-**Sega Dreamcast** — Complete English Translation
-
-### ⚔️ [Langrisser Millennium](https://github.com/wakabayashy/Langrisser-Millennium-English)
 **Sega Dreamcast** — AI-Assisted English Translation  
-**Status: Beta Testing — Beta 1 Hotfix / Build 62**
 
-### ⚔️ [Langrisser Millennium WS — The Last Century](https://github.com/wakabayashy/Langrisser-Millennium-WS-English)
+### ⚔️ Langrisser Millennium
+**Sega Dreamcast** — AI-Assisted English Translation  
+
+### ⚔️ Langrisser Millennium WS — The Last Century
 **Bandai WonderSwan** — AI-Assisted English Translation  
-**Status: Beta Testing — Ongoing**
 
 ### 🗡️ Dragon Quest Heroes I & II
 **Nintendo Switch** — Official PS4 Translation Port + Bonus Content Translation
@@ -26,7 +23,7 @@ Fan translation projects, localization work, and game ports.
 **Xbox 360** — Official PS3 Translation Port + Bonus Content Translation
 
 ### 🤖 Super Robot Wars XO
-**Xbox 360** — Complete English Translation
+**Xbox 360** — AI-Assisted English Translation  
 
 ---
 
