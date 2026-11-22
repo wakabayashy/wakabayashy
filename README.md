@@ -55,7 +55,7 @@ The English translation of Sakura Wars 2 for Dreamcast is currently in developme
 
 Both the translation and the editing work are ongoing. Further information and progress updates will be added here as the project advances.
 
-- Dedicated GitHub repository: not published yet.
+- [GitHub repository](https://github.com/wakabayashy/Sakura-Wars-2-Dreamcast-English)
 
 ---
 
@@ -67,7 +67,7 @@ The English translation project for Sakura Wars 4 is currently undergoing Beta t
 
 **Beta access:** Private, available on request through Discord. Contact me to request access; I can authorize testers individually.
 
-- Dedicated GitHub repository: not published yet.
+- [GitHub repository](https://github.com/wakabayashy/Sakura-Wars-4-Dreamcast-English)
 
 ---
 
@@ -128,7 +128,7 @@ The current Beta is being tested by players. Feedback is used to identify transl
 
 **Beta access:** Private, available on request through Discord. Contact me to request access; I can authorize testers individually.
 
-- Dedicated GitHub repository: not published yet.
+- [GitHub repository](https://github.com/wakabayashy/Dragon-Quest-Heroes-I-II-Switch-English)
 
 ---
 
@@ -145,7 +145,8 @@ The project is undergoing private Beta testing. Feedback is needed on the main s
 **Beta access:** Private, available on request through Discord. Contact me to request access; I can authorize testers individually.
 
 - [RetroGameTalk project thread](https://retrogametalk.com/threads/english-translation-cross-edge-dash-xbox-360-enhanced-version-official-ps3-translation.71908/)
-- Dedicated GitHub repository: not published yet.
+- [GitHub repository](https://github.com/wakabayashy/Cross-Edge-Dash-Xbox360-English)
+- [RetroGameTalk project thread](https://retrogametalk.com/threads/english-translation-cross-edge-dash-xbox-360-enhanced-version-official-ps3-translation.71908/)
 
 ---
 
@@ -159,7 +160,7 @@ The work includes translated game text and interface elements. The current testi
 
 **Beta access:** Private, available on request through Discord. Contact me to request access; I can authorize testers individually.
 
-- Dedicated GitHub repository: not published yet.
+- [GitHub repository](https://github.com/wakabayashy/Super-Robot-Wars-XO-English)
 
 ---
 
@@ -188,7 +189,7 @@ We expect to look for Beta testers once the dialogue translation reaches 100%. M
 
 - Main developer: **Veiga117**
 - Team / release: **wakabayashy**
-- Dedicated GitHub repository: not published yet.
+- [GitHub repository](https://github.com/wakabayashy/Tengai-Makyo-Ziria-Xbox360-English)
 
 ---
 
@@ -200,7 +201,7 @@ The English translation and editing work for Sengoku BASARA 4 Sumeragi on PlaySt
 
 Further progress updates and project information will be added as the work advances.
 
-- Dedicated GitHub repository: not published yet.
+- [GitHub repository](https://github.com/wakabayashy/Sengoku-BASARA-4-Sumeragi-English)
 
 ---
 
@@ -212,7 +213,7 @@ The English translation and editing work for Sengoku BASARA HD Collection on Pla
 
 Further progress updates and project information will be added as the work advances.
 
-- Dedicated GitHub repository: not published yet.
+- [GitHub repository](https://github.com/wakabayashy/Sengoku-BASARA-HD-Collection-English)
 
 ---
 
