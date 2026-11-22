@@ -7,6 +7,9 @@ Fan translation projects, localization work, and game ports.
 ### 🌸 Sakura Wars 1
 **Sega Dreamcast** — AI-Assisted English Translation  
 
+### 🌸 Sakura Wars 2
+**Sega Dreamcast** — English Translation Project
+
 ### 🌸 Sakura Wars 4
 **Sega Dreamcast** — AI-Assisted English Translation  
 
@@ -24,6 +27,15 @@ Fan translation projects, localization work, and game ports.
 
 ### 🤖 Super Robot Wars XO
 **Xbox 360** — AI-Assisted English Translation  
+
+### 🏯 Tengai Makyō: Ziria – Haruka Naru Jipang
+**Xbox 360** — English Translation Project (Veiga117)
+
+### ⚔️ Sengoku BASARA 4 Sumeragi
+**PlayStation 3** — English Translation Project
+
+### ⚔️ Sengoku BASARA HD Collection
+**PlayStation 3** — English Translation Project
 
 ---
 
