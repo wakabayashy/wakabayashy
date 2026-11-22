@@ -2,7 +2,7 @@
 
 Fan translations, localization work, game ports and preservation projects.
 
-This page is the central overview of the projects currently managed or supported by the wakabayashy team. Statuses were updated on **November 22, 2026**.
+This page is the central overview of my current projects. Statuses were updated on **November 23, 2026**.
 
 ## Project Status Overview
 
@@ -18,11 +18,11 @@ This page is the central overview of the projects currently managed or supported
 | Super Robot Wars XO | Xbox 360 | **Beta testing in progress** — private access on request |
 | Tengai Makyō: Ziria – Haruka Naru Jipang | Xbox 360 | **In development** — approximately 50% of dialogue translated |
 | Sengoku BASARA 4 Sumeragi | PlayStation 3 | **Translation and editing in progress** |
-| Sengoku BASARA HD Collection | PlayStation 3 | **Translation and editing in progress** |
+| Sengoku BASARA HD Collection | PlayStation 3 | **Translation and editing in progress** |\n| Hundred Swords | Sega Dreamcast | **Official PC English translation port — adaptation and editing in progress** |
 
 ---
 
-## 🌸 Sakura Wars 1 — Sega Dreamcast
+## 🗡️ Hundred Swords — Sega Dreamcast\n\n**Status: Official PC English translation port — Dreamcast adaptation and editing in progress**\n\nThis project ports the existing **official English PC translation** of Hundred Swords to the Sega Dreamcast. It is an adaptation of the existing PC localization, not a new translation from Japanese.\n\nThe English text is being transferred, adapted and edited for the Dreamcast version. Further technical work and validation are required before a public Beta or release can be announced. **No public patch is currently available, and in-game Flycast validation has not yet been completed.**\n\n- **Source:** Official English PC version\n- **Target:** Sega Dreamcast\n- **Current work:** Porting, adaptation and editing\n- [GitHub repository](https://github.com/wakabayashy/Hundred-Swords-Dreamcast-English)\n\n---\n\n## 🌸 Sakura Wars 1 — Sega Dreamcast
 
 **Status: Translation complete — Beta testing in progress**
 
@@ -168,9 +168,9 @@ The work includes translated game text and interface elements. The current testi
 
 **Status: In development — approximately 50% of dialogue translated**
 
-This is a new wakabayashy team project, with **Veiga117 as the main developer**.
+This is a project published under my name, with **Veiga117 as the main developer**.
 
-Veiga117 is handling the actual translation, text editing, manual review, technical research, game integration and patch development. The project is released under the wakabayashy team; I provide the team framework, coordination and support. All credit for the translation and technical work belongs to Veiga117.
+Veiga117 is handling the actual translation, text editing, manual review, technical research, game integration and patch development. The project is released under my name; I provide support and coordination. All credit for the translation and technical work belongs to Veiga117.
 
 According to his latest progress update, approximately **50% of the game's dialogue has been translated**. AI assistance is used to speed up the initial translation, but every dialogue will receive a manual review before release.
 
@@ -188,7 +188,7 @@ These features are intended to be optional. Initial testing has already started,
 We expect to look for Beta testers once the dialogue translation reaches 100%. Manual review and further testing will still be necessary before release.
 
 - Main developer: **Veiga117**
-- Team / release: **wakabayashy**
+- Project / release: **wakabayashy**
 - [GitHub repository](https://github.com/wakabayashy/Tengai-Makyo-Ziria-Xbox360-English)
 
 ---
@@ -219,7 +219,7 @@ Further progress updates and project information will be added as the work advan
 
 ## Community, Private Beta Access and Bug Reports
 
-Our Discord server is the central place for project updates, Beta testing, bug reports, screenshots and discussions.
+My Discord server is the central place for project updates, Beta testing, bug reports, screenshots and discussions.
 
 **Discord:** https://discord.gg/qf33SZmpn
 
