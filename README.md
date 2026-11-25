@@ -2,7 +2,7 @@
 
 Fan translations, localization work, game ports and preservation projects.
 
-This page is the central overview of my current projects. Statuses were updated on **November 23, 2026**.
+This page is the central overview of my current projects. Statuses were updated on **November 25, 2026**.
 
 ## Project Status Overview
 
@@ -10,6 +10,7 @@ This page is the central overview of my current projects. Statuses were updated 
 | --- | --- | --- |
 | Sakura Wars 1 | Sega Dreamcast | **Beta testing in progress** — private access on request |
 | Sakura Wars 2 | Sega Dreamcast | **Translation and editing in progress** |
+| Sakura Wars 3: Is Paris Burning? | Sega Dreamcast | **Early development — translation just started** |
 | Sakura Wars 4 | Sega Dreamcast | **Beta testing in progress** — private access on request |
 | Langrisser Millennium | Sega Dreamcast | **Beta testing in progress** — private access on request |
 | Langrisser Millennium WS: The Last Century | Bandai WonderSwan | **Complete — v1.0 released** |
@@ -56,6 +57,18 @@ The English translation of Sakura Wars 2 for Dreamcast is currently in developme
 Both the translation and the editing work are ongoing. Further information and progress updates will be added here as the project advances.
 
 - [GitHub repository](https://github.com/wakabayashy/Sakura-Wars-2-Dreamcast-English)
+
+---
+
+## 🌸 Sakura Wars 3: Is Paris Burning? — Sega Dreamcast
+
+**Status: Early development — translation just started**
+
+The English fan translation of Sakura Wars 3 (Sakura Taisen 3) for Dreamcast has just begun. Translation and technical work are in their early stages.
+
+The goal is a complete English translation of the game, including story dialogue, LIPS choices, menus, battle interfaces and system messages, while preserving the original visual presentation as much as possible.
+
+No public patch or estimated release date is currently available.
 
 ---
 
