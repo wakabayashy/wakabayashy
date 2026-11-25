@@ -70,6 +70,8 @@ The goal is a complete English translation of the game, including story dialogue
 
 No public patch or estimated release date is currently available.
 
+- [GitHub repository](https://github.com/wakabayashy/Sakura-Wars-3-Dreamcast-English)
+
 ---
 
 ## 🌸 Sakura Wars 4 — Sega Dreamcast
