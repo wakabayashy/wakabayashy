@@ -2,13 +2,14 @@
 
 Fan translations, localization work, game ports and preservation projects.
 
-This page is the central overview of my current projects. Statuses were updated on **November 25, 2026**.
+This page is the central overview of my current projects. Statuses were updated on **November 27, 2026**.
 
 ## Project Status Overview
 
 | Project | Platform | Current Status |
 | --- | --- | --- |
 | Sakura Wars 1 | Sega Dreamcast | **Beta testing in progress** — private access on request |
+| Sakura Taisen: Atsuki Chishio ni (Sakura Wars: In Hot Blood) | PlayStation 2 | **Translation and editing in progress** — first in-game screenshots |
 | Sakura Wars 2 | Sega Dreamcast | **Translation and editing in progress** |
 | Sakura Wars 3: Is Paris Burning? | Sega Dreamcast | **Early development — translation just started** |
 | Sakura Wars 4 | Sega Dreamcast | **Beta testing in progress** — private access on request |
@@ -19,11 +20,27 @@ This page is the central overview of my current projects. Statuses were updated 
 | Super Robot Wars XO | Xbox 360 | **Beta testing in progress** — private access on request |
 | Tengai Makyō: Ziria – Haruka Naru Jipang | Xbox 360 | **In development** — approximately 50% of dialogue translated |
 | Sengoku BASARA 4 Sumeragi | PlayStation 3 | **Translation and editing in progress** |
-| Sengoku BASARA HD Collection | PlayStation 3 | **Translation and editing in progress** |\n| Hundred Swords | Sega Dreamcast | **Official PC English translation port — adaptation and editing in progress** |
+| Sengoku BASARA HD Collection | PlayStation 3 | **Translation and editing in progress** |
+| Hundred Swords | Sega Dreamcast | **Official PC English translation port — adaptation and editing in progress** |
 
 ---
 
-## 🗡️ Hundred Swords — Sega Dreamcast\n\n**Status: Official PC English translation port — Dreamcast adaptation and editing in progress**\n\nThis project ports the existing **official English PC translation** of Hundred Swords to the Sega Dreamcast. It is an adaptation of the existing PC localization, not a new translation from Japanese.\n\nThe English text is being transferred, adapted and edited for the Dreamcast version. Further technical work and validation are required before a public Beta or release can be announced. **No public patch is currently available, and in-game Flycast validation has not yet been completed.**\n\n- **Source:** Official English PC version\n- **Target:** Sega Dreamcast\n- **Current work:** Porting, adaptation and editing\n- [GitHub repository](https://github.com/wakabayashy/Hundred-Swords-Dreamcast-English)\n\n---\n\n## 🌸 Sakura Wars 1 — Sega Dreamcast
+## 🗡️ Hundred Swords — Sega Dreamcast
+
+**Status: Official PC English translation port — Dreamcast adaptation and editing in progress**
+
+This project ports the existing **official English PC translation** of Hundred Swords to the Sega Dreamcast. It is an adaptation of the existing PC localization, not a new translation from Japanese.
+
+The English text is being transferred, adapted and edited for the Dreamcast version. Further technical work and validation are required before a public Beta or release can be announced. **No public patch is currently available, and in-game Flycast validation has not yet been completed.**
+
+- **Source:** Official English PC version
+- **Target:** Sega Dreamcast
+- **Current work:** Porting, adaptation and editing
+- [GitHub repository](https://github.com/wakabayashy/Hundred-Swords-Dreamcast-English)
+
+---
+
+## 🌸 Sakura Wars 1 — Sega Dreamcast
 
 **Status: Translation complete — Beta testing in progress**
 
@@ -45,6 +62,31 @@ The current Beta phase focuses on dialogue and contextual corrections, text form
 
 - [GitHub repository](https://github.com/wakabayashy/Sakura-Wars-1-Dreamcast-English-Translation)
 - No public release has been announced yet.
+
+---
+
+## 🌸 Sakura Taisen: Atsuki Chishio ni (Sakura Wars: In Hot Blood) — PlayStation 2
+
+**Status: English translation and editing in progress — first in-game screenshots**
+
+This new project covers **Sakura Taisen: Atsuki Chishio ni** on PlayStation 2, the remake of the first Sakura Wars. It is a separate project from my English translation of the Dreamcast version.
+
+The first screenshots show English already appearing in several areas of the game:
+
+- Opening and chapter presentation.
+- Save, exit and configuration screens.
+- Choice menus and item descriptions.
+- Character conversations and on-screen dialogue.
+
+Japanese text is still visible in several dialogues, menu selections and graphics. The project is **in development**, and there is no confirmed translation percentage, public Beta or release date yet.
+
+- **Platform:** PlayStation 2 (Japanese version)
+- **Project:** English translation and editing
+- **Status:** In progress
+- **Beta testing:** Not announced
+- **Public release:** Not announced
+- **Discord:** https://discord.gg/qf33SZmpn
+- **Dedicated GitHub repository:** Not published yet
 
 ---
 
