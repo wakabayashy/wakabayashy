@@ -307,7 +307,20 @@ For Tengai Makyō: Ziria, tester recruitment is planned after the dialogue trans
 
 **[Visit the wakabayashy GitHub profile](https://github.com/wakabayashy)** for the central project overview, available repositories and published releases.
 
-Dedicated repositories and release links will be added here as they become available. Links are provided only for repositories and releases that have been published.
+There are **14 active projects** in this overview. **13 have dedicated GitHub project repositories**; the new PS2 remake project currently has a [project information page](projects/sakura-wars-in-hot-blood-ps2.md) within this profile repository. Only publicly available releases are linked.
+
+---
+
+## Community Acknowledgements
+
+- **Veiga117:** Main developer of Tengai Makyō: Ziria, responsible for translation, editing, technical research and patch development.
+- **Cloogr:** Collaboration on Langrisser Millennium WS: The Last Century.
+- **Last_Seraph and altaihero:** Testing and feedback on the WonderSwan release.
+- **MontyMole303:** Detailed Langrisser Millennium Dreamcast gameplay testing and dialogue feedback.
+- **Darkroder92:** Permission to use his logos for Sakura Wars 4 and Super Robot Wars XO.
+- **The_Opponent:** Shared Sakura Wars 3 work and resources on GitHub.
+- **ateam:** Brought The_Opponent's repository to my attention.
+- Thanks to all other testers and contributors for their reports and support.
 
 ---
 
