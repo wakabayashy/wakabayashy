@@ -13,7 +13,7 @@ This page is the central overview of my current projects. Statuses were updated 
 | Project | Platform | Current Status |
 | --- | --- | --- |
 | Sakura Wars 1 | Sega Dreamcast | **Beta testing in progress** — private access on request |
-| [Sakura Taisen: Atsuki Chishio ni (Sakura Wars: In Hot Blood)](projects/sakura-wars-in-hot-blood-ps2.md) | PlayStation 2 | **Menus/interface translation in progress** — awaiting Sakura Wars 1 Dreamcast Beta completion for dialogue port |
+| [Sakura Taisen: Atsuki Chishio ni (Sakura Wars: In Hot Blood)](https://github.com/wakabayashy/Sakura-Wars-In-Hot-Blood-PS2-English) | PlayStation 2 | **Menus/interface translation in progress** — awaiting Sakura Wars 1 Dreamcast Beta completion for dialogue port |
 | Sakura Wars 2 | Sega Dreamcast | **Translation and editing in progress** |
 | Sakura Wars 3: Is Paris Burning? | Sega Dreamcast | **Early development — translation just started** |
 | Sakura Wars 4 | Sega Dreamcast | **Beta testing in progress** — private access on request |
@@ -91,8 +91,8 @@ This is my English localization project for the PlayStation 2 remake of the firs
 - **Public Beta:** Not announced
 - **Public release:** Not announced
 - **Discord:** https://discord.gg/qf33SZmpn
-- [Detailed PS2 project page and translation-port roadmap](projects/sakura-wars-in-hot-blood-ps2.md)
-- **Dedicated GitHub repository:** Not published yet
+- [Detailed PS2 project page and translation-port roadmap](https://github.com/wakabayashy/Sakura-Wars-In-Hot-Blood-PS2-English)
+- **Dedicated GitHub repository:** [Sakura Wars: In Hot Blood — PS2 English](https://github.com/wakabayashy/Sakura-Wars-In-Hot-Blood-PS2-English)
 
 ---
 
@@ -303,11 +303,11 @@ For Tengai Makyō: Ziria, tester recruitment is planned after the dialogue trans
 ## GitHub
 
 - [RetroGameTalk — November 2026 project overview](https://retrogametalk.com/threads/project-status-update-wakabayashy-all-my-projects-overview-november-2026.75310/)
-- [Sakura Wars: In Hot Blood (PS2) — detailed project page](projects/sakura-wars-in-hot-blood-ps2.md)
+- [Sakura Wars: In Hot Blood (PS2) — detailed project page](https://github.com/wakabayashy/Sakura-Wars-In-Hot-Blood-PS2-English)
 
 **[Visit the wakabayashy GitHub profile](https://github.com/wakabayashy)** for the central project overview, available repositories and published releases.
 
-There are **14 active projects** in this overview. **13 have dedicated GitHub project repositories**; the new PS2 remake project currently has a [project information page](projects/sakura-wars-in-hot-blood-ps2.md) within this profile repository. Only publicly available releases are linked.
+There are **14 active projects**, and all **14 now have dedicated GitHub repositories**. Only publicly available releases are linked.
 
 ---
 
