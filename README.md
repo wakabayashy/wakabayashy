@@ -9,7 +9,7 @@ This page is the central overview of my current projects. Statuses were updated 
 | Project | Platform | Current Status |
 | --- | --- | --- |
 | Sakura Wars 1 | Sega Dreamcast | **Beta testing in progress** — private access on request |
-| Sakura Taisen: Atsuki Chishio ni (Sakura Wars: In Hot Blood) | PlayStation 2 | **Translation and editing in progress** — first in-game screenshots |
+| Sakura Taisen: Atsuki Chishio ni (Sakura Wars: In Hot Blood) | PlayStation 2 | **Menus/interface translation in progress** — awaiting Sakura Wars 1 Dreamcast Beta completion for dialogue port |
 | Sakura Wars 2 | Sega Dreamcast | **Translation and editing in progress** |
 | Sakura Wars 3: Is Paris Burning? | Sega Dreamcast | **Early development — translation just started** |
 | Sakura Wars 4 | Sega Dreamcast | **Beta testing in progress** — private access on request |
@@ -67,23 +67,24 @@ The current Beta phase focuses on dialogue and contextual corrections, text form
 
 ## 🌸 Sakura Taisen: Atsuki Chishio ni (Sakura Wars: In Hot Blood) — PlayStation 2
 
-**Status: English translation and editing in progress — first in-game screenshots**
+**Status: Menus and interface translation in progress — story translation not yet ported**
 
-This new project covers **Sakura Taisen: Atsuki Chishio ni** on PlayStation 2, the remake of the first Sakura Wars. It is a separate project from my English translation of the Dreamcast version.
+This is my English localization project for the PlayStation 2 remake of the first Sakura Wars, separate from the Dreamcast project.
 
-The first screenshots show English already appearing in several areas of the game:
+**Only the menus and interface have been worked on so far.** Japanese story dialogue and other untranslated content are expected at this stage; they do not indicate a completed dialogue translation.
 
-- Opening and chapter presentation.
-- Save, exit and configuration screens.
-- Choice menus and item descriptions.
-- Character conversations and on-screen dialogue.
+### Planned workflow
 
-Japanese text is still visible in several dialogues, menu selections and graphics. The project is **in development**, and there is no confirmed translation percentage, public Beta or release date yet.
+1. Complete the Beta testing and corrections for **Sakura Wars 1 on Dreamcast**.
+2. Port the validated Dreamcast English translation to the PS2 remake, adapting it to this version's resources and presentation.
+3. Translate and edit the **new or PS2-exclusive passages** that are not covered by the Dreamcast translation.
+4. Test the combined localization on PS2 after integration.
 
 - **Platform:** PlayStation 2 (Japanese version)
-- **Project:** English translation and editing
-- **Status:** In progress
-- **Beta testing:** Not announced
+- **Current work:** Menus and interface translation
+- **Story/dialogue translation:** Awaiting finalized Dreamcast translation for porting
+- **Additional PS2 content:** New passages to be translated later
+- **Public Beta:** Not announced
 - **Public release:** Not announced
 - **Discord:** https://discord.gg/qf33SZmpn
 - **Dedicated GitHub repository:** Not published yet
