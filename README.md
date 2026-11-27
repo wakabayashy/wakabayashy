@@ -2,6 +2,10 @@
 
 Fan translations, localization work, game ports and preservation projects.
 
+**14 projects:** 1 complete public release · 6 projects in Beta testing · 7 projects in translation, editing or technical development.
+
+**[RetroGameTalk — All My Projects Overview (November 2026)](https://retrogametalk.com/threads/project-status-update-wakabayashy-all-my-projects-overview-november-2026.75310/)**
+
 This page is the central overview of my current projects. Statuses were updated on **November 27, 2026**.
 
 ## Project Status Overview
@@ -9,7 +13,7 @@ This page is the central overview of my current projects. Statuses were updated 
 | Project | Platform | Current Status |
 | --- | --- | --- |
 | Sakura Wars 1 | Sega Dreamcast | **Beta testing in progress** — private access on request |
-| Sakura Taisen: Atsuki Chishio ni (Sakura Wars: In Hot Blood) | PlayStation 2 | **Menus/interface translation in progress** — awaiting Sakura Wars 1 Dreamcast Beta completion for dialogue port |
+| [Sakura Taisen: Atsuki Chishio ni (Sakura Wars: In Hot Blood)](projects/sakura-wars-in-hot-blood-ps2.md) | PlayStation 2 | **Menus/interface translation in progress** — awaiting Sakura Wars 1 Dreamcast Beta completion for dialogue port |
 | Sakura Wars 2 | Sega Dreamcast | **Translation and editing in progress** |
 | Sakura Wars 3: Is Paris Burning? | Sega Dreamcast | **Early development — translation just started** |
 | Sakura Wars 4 | Sega Dreamcast | **Beta testing in progress** — private access on request |
@@ -19,7 +23,7 @@ This page is the central overview of my current projects. Statuses were updated 
 | Cross Edge Dash | Xbox 360 | **Beta testing in progress** — private access on request |
 | Super Robot Wars XO | Xbox 360 | **Beta testing in progress** — private access on request |
 | Tengai Makyō: Ziria – Haruka Naru Jipang | Xbox 360 | **In development** — approximately 50% of dialogue translated |
-| Sengoku BASARA 4 Sumeragi | PlayStation 3 | **Translation and editing in progress** |
+| Sengoku BASARA 4 Sumeragi | PlayStation 3 | **English script translated and integrated; editing and Beta preparation** |
 | Sengoku BASARA HD Collection | PlayStation 3 | **Translation and editing in progress** |
 | Hundred Swords | Sega Dreamcast | **Official PC English translation port — adaptation and editing in progress** |
 
@@ -71,7 +75,7 @@ The current Beta phase focuses on dialogue and contextual corrections, text form
 
 This is my English localization project for the PlayStation 2 remake of the first Sakura Wars, separate from the Dreamcast project.
 
-**Only the menus and interface have been worked on so far.** Japanese story dialogue and other untranslated content are expected at this stage; they do not indicate a completed dialogue translation.
+**Only the menus and interface have been worked on so far.** The first published screenshots illustrate this interface work. The story dialogue has not yet been ported.
 
 ### Planned workflow
 
@@ -87,6 +91,7 @@ This is my English localization project for the PlayStation 2 remake of the firs
 - **Public Beta:** Not announced
 - **Public release:** Not announced
 - **Discord:** https://discord.gg/qf33SZmpn
+- [Detailed PS2 project page and translation-port roadmap](projects/sakura-wars-in-hot-blood-ps2.md)
 - **Dedicated GitHub repository:** Not published yet
 
 ---
@@ -204,7 +209,6 @@ The project is undergoing private Beta testing. Feedback is needed on the main s
 
 - [RetroGameTalk project thread](https://retrogametalk.com/threads/english-translation-cross-edge-dash-xbox-360-enhanced-version-official-ps3-translation.71908/)
 - [GitHub repository](https://github.com/wakabayashy/Cross-Edge-Dash-Xbox360-English)
-- [RetroGameTalk project thread](https://retrogametalk.com/threads/english-translation-cross-edge-dash-xbox-360-enhanced-version-official-ps3-translation.71908/)
 
 ---
 
@@ -255,9 +259,7 @@ We expect to look for Beta testers once the dialogue translation reaches 100%. M
 
 **Status: Translation and editing in progress**
 
-The English translation and editing work for Sengoku BASARA 4 Sumeragi on PlayStation 3 is ongoing.
-
-Further progress updates and project information will be added as the work advances.
+The English script has been translated and integrated into Sengoku BASARA 4 Sumeragi on PlayStation 3. Editing, visual corrections and Beta testing preparation continue; no public Beta is available yet.
 
 - [GitHub repository](https://github.com/wakabayashy/Sengoku-BASARA-4-Sumeragi-English)
 
@@ -299,6 +301,9 @@ For Tengai Makyō: Ziria, tester recruitment is planned after the dialogue trans
 ---
 
 ## GitHub
+
+- [RetroGameTalk — November 2026 project overview](https://retrogametalk.com/threads/project-status-update-wakabayashy-all-my-projects-overview-november-2026.75310/)
+- [Sakura Wars: In Hot Blood (PS2) — detailed project page](projects/sakura-wars-in-hot-blood-ps2.md)
 
 **[Visit the wakabayashy GitHub profile](https://github.com/wakabayashy)** for the central project overview, available repositories and published releases.
 
