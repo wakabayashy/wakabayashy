@@ -17,7 +17,7 @@ This page is the central overview of my current projects. Statuses were updated 
 | Sakura Wars 2 | Sega Dreamcast | **Translation and editing in progress** |
 | Sakura Wars 3: Is Paris Burning? | Sega Dreamcast | **Early development — translation just started** |
 | Sakura Wars 4 | Sega Dreamcast | **Beta testing in progress** — private access on request |
-| [Sakura Wars V: Episode 0 — Samurai Girl of the Wild West](projects/sakura-wars-v-episode-0-ps2.md) | PlayStation 2 | **English translation complete — entering private Beta testing** |
+| [Sakura Wars V: Episode 0 — Samurai Girl of the Wild West](https://github.com/wakabayashy/Sakura-Wars-V-Episode-0-PS2-English) | PlayStation 2 | **English translation complete — entering private Beta testing** |
 | Langrisser Millennium | Sega Dreamcast | **Beta testing in progress** — private access on request |
 | Langrisser Millennium WS: The Last Century | Bandai WonderSwan | **Complete — v1.0 released** |
 | Dragon Quest Heroes I & II | Nintendo Switch | **Beta testing in progress** — private access on request |
@@ -150,7 +150,7 @@ The English translation and technical integration have now reached the Beta hand
 - **Patch status:** Cumulative English build ready for private Beta testing
 - **Beta access:** Private, coordinated through Discord; request access from wakabayashy
 - **Public release:** Not announced
-- [Detailed GitHub project page](projects/sakura-wars-v-episode-0-ps2.md)
+- [Detailed GitHub project page](https://github.com/wakabayashy/Sakura-Wars-V-Episode-0-PS2-English)
 
 ---
 
@@ -324,11 +324,12 @@ For Tengai Makyō: Ziria, tester recruitment is planned after the dialogue trans
 ## GitHub
 
 - [RetroGameTalk — November 2026 project overview](https://retrogametalk.com/threads/project-status-update-wakabayashy-all-my-projects-overview-november-2026.75310/)
-- [Sakura Wars: In Hot Blood (PS2) — detailed project page](https://github.com/wakabayashy/Sakura-Wars-In-Hot-Blood-PS2-English)
+- [Sakura Wars: In Hot Blood (PS2) — dedicated repository](https://github.com/wakabayashy/Sakura-Wars-In-Hot-Blood-PS2-English)
+- [Sakura Wars V: Episode 0 (PS2) — dedicated repository](https://github.com/wakabayashy/Sakura-Wars-V-Episode-0-PS2-English)
 
 **[Visit the wakabayashy GitHub profile](https://github.com/wakabayashy)** for the central project overview, available repositories and published releases.
 
-There are **15 active projects**: **14 have dedicated GitHub repositories** and the newest Sakura Wars V: Episode 0 project currently has a [project page](projects/sakura-wars-v-episode-0-ps2.md) in this profile repository. Only publicly available releases are linked.
+There are **15 active projects**, and all **15 now have dedicated GitHub repositories**. Only publicly available releases are linked.
 
 ---
 
