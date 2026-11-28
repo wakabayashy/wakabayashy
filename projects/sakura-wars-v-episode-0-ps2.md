@@ -1,3 +1,7 @@
+> **This project now has a dedicated GitHub repository:** [Sakura Wars V: Episode 0 — PS2 English Translation](https://github.com/wakabayashy/Sakura-Wars-V-Episode-0-PS2-English). The current README and updates are maintained there.
+
+---
+
 # Sakura Wars V: Episode 0 — PS2 English Translation
 
 **Japanese title:** Sakura Taisen V Episode 0: Kouya no Samurai Musume (サクラ大戦V EPISODE 0 ～荒野のサムライ娘～)
