@@ -2,11 +2,11 @@
 
 Fan translations, localization work, game ports and preservation projects.
 
-**14 projects:** 1 complete public release · 6 projects in Beta testing · 7 projects in translation, editing or technical development.
+**15 projects:** 1 complete public release · 7 projects entering or in Beta testing · 7 projects in translation, editing or technical development.
 
 **[RetroGameTalk — All My Projects Overview (November 2026)](https://retrogametalk.com/threads/project-status-update-wakabayashy-all-my-projects-overview-november-2026.75310/)**
 
-This page is the central overview of my current projects. Statuses were updated on **November 27, 2026**.
+This page is the central overview of my current projects. Statuses were updated on **November 28, 2026**.
 
 ## Project Status Overview
 
@@ -17,6 +17,7 @@ This page is the central overview of my current projects. Statuses were updated 
 | Sakura Wars 2 | Sega Dreamcast | **Translation and editing in progress** |
 | Sakura Wars 3: Is Paris Burning? | Sega Dreamcast | **Early development — translation just started** |
 | Sakura Wars 4 | Sega Dreamcast | **Beta testing in progress** — private access on request |
+| [Sakura Wars V: Episode 0 — Samurai Girl of the Wild West](projects/sakura-wars-v-episode-0-ps2.md) | PlayStation 2 | **English translation complete — entering private Beta testing** |
 | Langrisser Millennium | Sega Dreamcast | **Beta testing in progress** — private access on request |
 | Langrisser Millennium WS: The Last Century | Bandai WonderSwan | **Complete — v1.0 released** |
 | Dragon Quest Heroes I & II | Nintendo Switch | **Beta testing in progress** — private access on request |
@@ -131,6 +132,25 @@ The English translation project for Sakura Wars 4 is currently undergoing Beta t
 **Beta access:** Private, available on request through Discord. Contact me to request access; I can authorize testers individually.
 
 - [GitHub repository](https://github.com/wakabayashy/Sakura-Wars-4-Dreamcast-English)
+
+---
+
+## 🌸 Sakura Wars V: Episode 0 — Samurai Girl of the Wild West — PlayStation 2
+
+**Status: English translation and integration complete — entering private Beta testing (November 28, 2026)**
+
+*Sakura Taisen V Episode 0: Kouya no Samurai Musume* is a PlayStation 2 action-adventure prequel to *Sakura Wars: So Long, My Love*, starring Gemini Sunrise and her horse Rally.
+
+The English translation and technical integration have now reached the Beta handoff stage. The completed work covers story dialogue, character exchanges, LIPS choices, menus, interfaces, logo and other graphics, tutorials and presentation text, including movie-related and credits resources.
+
+**Translation is complete, but the patch has not yet been approved by a full Beta playthrough.** The next step is testing in PCSX2 for text overflow, cutscenes and voice timing, remaining Japanese, game progression and technical problems. Fixes may still be necessary.
+
+- **Platform:** PlayStation 2 (Japanese release)
+- **Game:** Sakura Taisen V Episode 0: Kouya no Samurai Musume
+- **Patch status:** Cumulative English build ready for private Beta testing
+- **Beta access:** Private, coordinated through Discord; request access from wakabayashy
+- **Public release:** Not announced
+- [Detailed GitHub project page](projects/sakura-wars-v-episode-0-ps2.md)
 
 ---
 
@@ -283,7 +303,7 @@ My Discord server is the central place for project updates, Beta testing, bug re
 
 **Discord:** https://discord.gg/qf33SZmpn
 
-The six projects currently in Beta testing are:
+The seven projects entering or undergoing private Beta testing are:
 
 - Sakura Wars 1
 - Sakura Wars 4
@@ -291,12 +311,13 @@ The six projects currently in Beta testing are:
 - Dragon Quest Heroes I & II
 - Cross Edge Dash
 - Super Robot Wars XO
+- Sakura Wars V: Episode 0 (PlayStation 2) — entering Beta testing
 
 **Beta access for these projects is private and available on request through Discord.** Contact me directly; I can authorize access for interested testers.
 
 When reporting an issue, please include a screenshot when possible, the location or event where it occurred, what you were doing, and the console or emulator used. Reproducible reports are especially helpful.
 
-For Tengai Makyō: Ziria, tester recruitment is planned after the dialogue translation reaches 100%; it is not part of the current six-project Beta recruitment.
+For Tengai Makyō: Ziria, tester recruitment is planned after the dialogue translation reaches 100%; it is not part of the current seven-project Beta recruitment.
 
 ---
 
@@ -307,7 +328,7 @@ For Tengai Makyō: Ziria, tester recruitment is planned after the dialogue trans
 
 **[Visit the wakabayashy GitHub profile](https://github.com/wakabayashy)** for the central project overview, available repositories and published releases.
 
-There are **14 active projects**, and all **14 now have dedicated GitHub repositories**. Only publicly available releases are linked.
+There are **15 active projects**: **14 have dedicated GitHub repositories** and the newest Sakura Wars V: Episode 0 project currently has a [project page](projects/sakura-wars-v-episode-0-ps2.md) in this profile repository. Only publicly available releases are linked.
 
 ---
 
